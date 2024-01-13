@@ -1,0 +1,135 @@
+[[PortMidi]]
+arch = "aarch64"
+git-tree-sha1 = "cbaddb53fe4f863634aaf672ed81d46a6e005f01"
+os = "macos"
+
+    [[PortMidi.download]]
+    sha256 = "9e564e251d6006ee0528fb08fcc13dbecf819537f8a9f1194c27196feda4fb50"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.aarch64-apple-darwin.tar.gz"
+[[PortMidi]]
+arch = "aarch64"
+git-tree-sha1 = "bfdc636615940a8b160730165e405dfcad41873e"
+libc = "glibc"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "0d39f1add812087248d7f9f08940390b7d7ddd24cef2187720b59a6c423e8c8b"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.aarch64-linux-gnu.tar.gz"
+[[PortMidi]]
+arch = "aarch64"
+git-tree-sha1 = "02b25623c558a5ab4ff671ee816b628df3926522"
+libc = "musl"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "b0b3b7b059f54acebba3cd9e6cbe1ae84607e1bb92870f8d65b63228773c95bd"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.aarch64-linux-musl.tar.gz"
+[[PortMidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a1ab0c1d5d1369057c0bdef39c1f8baf821f165d"
+libc = "glibc"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "1c1c83e17d2132ace8078def50c2e7f5b3b4da9c603d19a4bbfa35a78843ad62"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.armv6l-linux-gnueabihf.tar.gz"
+[[PortMidi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dcff7fcebde308dc03cf86023cc4eccfae02e63b"
+libc = "musl"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "8de1aa209cd83c2d8c88ab71645c3caa6756784ca17f64499d2bd5da6f151afc"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.armv6l-linux-musleabihf.tar.gz"
+[[PortMidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6e4e7c8ff619401f23315333c508aa66e6bd10f9"
+libc = "glibc"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "c04a174a4ae5814d4743845f6db4033ccfeec3a8d3cff3505d5346439822648d"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.armv7l-linux-gnueabihf.tar.gz"
+[[PortMidi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d2143f275c9b20cb50c4c02a4f99c2573c86ae6f"
+libc = "musl"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "064312666498f76c9c9b93e292192d92c399ace0031092d48a9cf4228730624d"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.armv7l-linux-musleabihf.tar.gz"
+[[PortMidi]]
+arch = "i686"
+git-tree-sha1 = "57365c91190c3df9e72d1fcca6d4bb7ca74881f6"
+libc = "glibc"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "64cd1b0ab2a77b898bdfc07f88c419a399137412b61ec9eaa6629e77140cf8d2"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.i686-linux-gnu.tar.gz"
+[[PortMidi]]
+arch = "i686"
+git-tree-sha1 = "b2f1d2151020ab5c6f9291789813e4896ad70ee0"
+libc = "musl"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "903e926ce129111f9cb14ab08d6d74fdf811130db225dcdfed446765e4c21df9"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.i686-linux-musl.tar.gz"
+[[PortMidi]]
+arch = "i686"
+git-tree-sha1 = "5c95f34066f98f9587cfb5273719375c4b433926"
+os = "windows"
+
+    [[PortMidi.download]]
+    sha256 = "93c50fde99dff41b2179d6e204cdb8038df63a9ec27f847ea18dbb8ca3ed7131"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.i686-w64-mingw32.tar.gz"
+[[PortMidi]]
+arch = "powerpc64le"
+git-tree-sha1 = "1352785a87c59ef7700d4aa5738faf09dd43eba7"
+libc = "glibc"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "8f37e87c0f93bd98bbd995706e1e1e17ac69ffd911bdd91fb71f51701ceb45de"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.powerpc64le-linux-gnu.tar.gz"
+[[PortMidi]]
+arch = "x86_64"
+git-tree-sha1 = "a971663d13342e7bff459da346d6f1344d5d0695"
+os = "macos"
+
+    [[PortMidi.download]]
+    sha256 = "5916532d386cb2ff4d330c2a5eb94a245d4519dfcb50af06c32aa66f2cec5da8"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.x86_64-apple-darwin.tar.gz"
+[[PortMidi]]
+arch = "x86_64"
+git-tree-sha1 = "cabe42845dbd9d36951e9de0f65ab4c63ddbc4cf"
+libc = "glibc"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "69c28ca36ac5f3e6b1e943b04dc0e14bda31dbd34ce3b19221cd1a0184525316"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.x86_64-linux-gnu.tar.gz"
+[[PortMidi]]
+arch = "x86_64"
+git-tree-sha1 = "9df347251a9668e598093d08b084cf2a2baef8de"
+libc = "musl"
+os = "linux"
+
+    [[PortMidi.download]]
+    sha256 = "7fb0b80b816ed232a29cc601dc9a0601ba3eb049724f6b8bdef505cbd1bb1f76"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.x86_64-linux-musl.tar.gz"
+[[PortMidi]]
+arch = "x86_64"
+git-tree-sha1 = "d9caee9926052a0f1a3eebffea1324d2061523c8"
+os = "windows"
+
+    [[PortMidi.download]]
+    sha256 = "ef25280a353f1b3f9b77e66b579bb622659b718d210f953acae9beb8918466de"
+    url = "https://github.com/JuliaBinaryWrappers/PortMidi_jll.jl/releases/download/PortMidi-v2.0.4+0/PortMidi.v2.0.4.x86_64-w64-mingw32.tar.gz"
